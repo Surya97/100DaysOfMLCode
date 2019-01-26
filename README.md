@@ -11,3 +11,12 @@ Completed Geometry of Linear Equations and elimination with matrices
 Get acquainted with basic statistical graphs
 * Status
 Learned about Histograms, Box plots, heat map, scatter plot.
+
+## Day3
+* Goal
+Load a dataset and do EDA (Exploratory Data Analysis)
+* Status
+Dataset chosen -- [Graduate Admissions Dataset](https://www.kaggle.com/mohansacharya/graduate-admissions)
+Basic statistical analysis done
+Plots used -- Histogram, pairplots, boxplot, heatmap, Scatter plot
+Libraries used -- Matplotlib and Seaborn
